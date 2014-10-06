@@ -1,3 +1,9 @@
+# logo
+
+Display you logo in various layouts and color combinations
+
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Chris Nager
